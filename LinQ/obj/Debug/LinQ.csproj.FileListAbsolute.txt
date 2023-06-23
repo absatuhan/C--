@@ -1,0 +1,11 @@
+C:\Users\batuhan\source\repos\Udemy\LinQ\bin\Debug\LinQ.exe.config
+C:\Users\batuhan\source\repos\Udemy\LinQ\bin\Debug\LinQ.exe
+C:\Users\batuhan\source\repos\Udemy\LinQ\bin\Debug\LinQ.pdb
+C:\Users\batuhan\source\repos\Udemy\LinQ\bin\Debug\FakeData.dll
+C:\Users\batuhan\source\repos\Udemy\LinQ\bin\Debug\FakeData.pdb
+C:\Users\batuhan\source\repos\Udemy\LinQ\obj\Debug\LinQ.csproj.AssemblyReference.cache
+C:\Users\batuhan\source\repos\Udemy\LinQ\obj\Debug\LinQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\batuhan\source\repos\Udemy\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\batuhan\source\repos\Udemy\LinQ\obj\Debug\LinQ.csproj.CopyComplete
+C:\Users\batuhan\source\repos\Udemy\LinQ\obj\Debug\LinQ.exe
+C:\Users\batuhan\source\repos\Udemy\LinQ\obj\Debug\LinQ.pdb
